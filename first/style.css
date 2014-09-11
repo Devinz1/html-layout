@@ -1,0 +1,47 @@
+.red {
+	color: red;
+    border: solid;
+    width: 99.5%;
+    height: 50%;
+    background: red;
+    
+
+}
+
+.blue {
+	color: blue
+	border: solid;
+	width: 20%;
+	height: 65%;
+	background: blue;
+	float: left;
+}
+
+.lightblue {
+	color: blue;
+	border: solid;
+	width: 20%;
+	height: 65%;
+	background: blue;
+	float: right;
+	
+} 
+.yellow {
+	color: yellow;
+	border: solid;
+	width: 90%;
+	height: 50%;
+	background: yellow;
+	
+	
+}
+
+.green {
+	color: green;
+	border: solid;
+	width: 90%;
+	height: 13%;
+	background: green;
+	float: bottom;
+	
+}
